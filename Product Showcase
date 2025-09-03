@@ -1,0 +1,17 @@
+<section class="products">
+    <div class="product">
+        <img src="product1.jpg" alt="Classic T-Shirt">
+        <h4>Classic T-Shirt</h4>
+        <p>₹799</p>
+    </div>
+    <div class="product">
+        <img src="product2.jpg" alt="Denim Jacket">
+        <h4>Denim Jacket</h4>
+        <p>₹1999</p>
+    </div>
+    <div class="product">
+        <img src="product3.jpg" alt="Summer Dress">
+        <h4>Summer Dress</h4>
+        <p>₹1499</p>
+    </div>
+</section>
